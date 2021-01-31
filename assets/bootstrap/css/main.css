@@ -1,0 +1,35 @@
+#wcidojtjieye{
+  padding: 10px 0;
+}
+input, textarea{
+	height: 60px;
+    border-radius: 5px;
+    border: 1px solid #e8e8e8;
+    width: 82%;
+    color: #000;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    padding-left: 12px;
+}
+textarea{
+	height: 100px;
+}
+button{
+	display: block;
+    height: 64px;
+    z-index: 10;
+    text-shadow: 0 0 9px rgba(18,56,92,.41);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1em;
+    max-width: 350px;
+    position: relative;
+    width: 100%;
+    color: #fff;
+    margin: 12px auto;
+    border-radius: 5px;
+    background-color: #af2c4b;
+    border: none;
+    border-bottom: 5px solid #881530;
+}
